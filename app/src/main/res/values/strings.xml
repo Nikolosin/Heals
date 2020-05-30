@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Heals</string>
+    <string name="name_avtor">\"Комплексная система\nмониторинга здоровья\"\nПетренко</string>
+    <string name="nameavtor">Petrenko</string>
+    <string name="name_user">ФИО</string>
+    <string name="age">Возраст</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="pressure_btn">Показатели\nдавления</string>
+    <string name="statis_btn">Жизненные\nпоказатели</string>
+    <string name="up">Верхнее давление</string>
+    <string name="down">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tah">Тахикардия</string>
+    <string name="date">день/месяц/год часы:минуты</string>
+    <string name="weight">вес</string>
+    <string name="step">кол-во шагов</string>
+    <string name="error">проверьте правильность введенных значений</string>
+    <string name="errorData">проверьте правильность введенной даты и времени</string>
+    <string name="save">сохранено</string>
+</resources>
